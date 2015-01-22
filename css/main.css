@@ -8,24 +8,44 @@ body {
 	padding-top:70px;
 }
 
-#profile{
+#aboutme{
     background: #ffffff;
 }
 
-#projects{
-    background: lightgrey;
+#tech{
+    background: #222;
+    color:white;
 }
 
 
-#skills{
+#certs{
     background: #ffffff;
 }
 
-#certifications{
-    background: lightgrey;
+
+.fa-2 {
+    font-size: 2em;
 }
 
+.jumbotron{
+    background:#222;
+    color:white;
+}
 
-#visa{
-    background: #ffffff;
+.section{
+    font-size:16pt;
+}
+
+.cert-wrapper .title{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.cert-wrapper .from{
+    font-size: 18px;
+}
+
+.cert-wrapper .date{
+    font-size: 16px;
+    color: rgb(153, 153, 153);
 }
